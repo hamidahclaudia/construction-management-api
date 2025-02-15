@@ -9,3 +9,4 @@
 /Users/claudiahamidah/Documents/dev/ConstructionManagement/ConstructionManagement.Domain/obj/Debug/net8.0/refint/ConstructionManagement.Domain.dll
 /Users/claudiahamidah/Documents/dev/ConstructionManagement/ConstructionManagement.Domain/obj/Debug/net8.0/ConstructionManagement.Domain.pdb
 /Users/claudiahamidah/Documents/dev/ConstructionManagement/ConstructionManagement.Domain/obj/Debug/net8.0/ref/ConstructionManagement.Domain.dll
+/Users/claudiahamidah/Documents/dev/ConstructionManagement/ConstructionManagement.Domain/obj/Debug/net8.0/ConstructionManagement.Domain.sourcelink.json

@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructionManagement.Doma
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructionManagement.Infrastructure", "ConstructionManagement.Infrastructure\ConstructionManagement.Infrastructure.csproj", "{1E55ED0B-891B-4CF4-A1E5-AF2399F5640C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructionManagement.Test", "ConstructionManagement.Test\ConstructionManagement.Test.csproj", "{05F50451-6A72-4FA6-B211-870AE785A127}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{1E55ED0B-891B-4CF4-A1E5-AF2399F5640C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E55ED0B-891B-4CF4-A1E5-AF2399F5640C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E55ED0B-891B-4CF4-A1E5-AF2399F5640C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05F50451-6A72-4FA6-B211-870AE785A127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05F50451-6A72-4FA6-B211-870AE785A127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05F50451-6A72-4FA6-B211-870AE785A127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05F50451-6A72-4FA6-B211-870AE785A127}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

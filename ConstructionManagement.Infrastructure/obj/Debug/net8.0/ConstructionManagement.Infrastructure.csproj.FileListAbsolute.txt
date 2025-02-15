@@ -17,3 +17,4 @@
 /Users/claudiahamidah/Documents/dev/ConstructionManagement/ConstructionManagement.Infrastructure/obj/Debug/net8.0/ConstructionManagement.Infrastructure.pdb
 /Users/claudiahamidah/Documents/dev/ConstructionManagement/ConstructionManagement.Infrastructure/obj/Debug/net8.0/ConstructionManagement.Infrastructure.genruntimeconfig.cache
 /Users/claudiahamidah/Documents/dev/ConstructionManagement/ConstructionManagement.Infrastructure/obj/Debug/net8.0/ref/ConstructionManagement.Infrastructure.dll
+/Users/claudiahamidah/Documents/dev/ConstructionManagement/ConstructionManagement.Infrastructure/obj/Debug/net8.0/ConstructionManagement.Infrastructure.sourcelink.json

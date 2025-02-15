@@ -13,3 +13,4 @@
 /Users/claudiahamidah/Documents/dev/ConstructionManagement/ConstructionManagement.Application/obj/Debug/net8.0/refint/ConstructionManagement.Application.dll
 /Users/claudiahamidah/Documents/dev/ConstructionManagement/ConstructionManagement.Application/obj/Debug/net8.0/ConstructionManagement.Application.pdb
 /Users/claudiahamidah/Documents/dev/ConstructionManagement/ConstructionManagement.Application/obj/Debug/net8.0/ref/ConstructionManagement.Application.dll
+/Users/claudiahamidah/Documents/dev/ConstructionManagement/ConstructionManagement.Application/obj/Debug/net8.0/ConstructionManagement.Application.sourcelink.json
