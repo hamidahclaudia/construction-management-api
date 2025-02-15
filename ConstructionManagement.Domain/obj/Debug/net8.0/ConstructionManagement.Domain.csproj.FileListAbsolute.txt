@@ -1,0 +1,11 @@
+/Users/claudiahamidah/Documents/dev/ConstructionManagement/ConstructionManagement.Domain/bin/Debug/net8.0/ConstructionManagement.Domain.deps.json
+/Users/claudiahamidah/Documents/dev/ConstructionManagement/ConstructionManagement.Domain/bin/Debug/net8.0/ConstructionManagement.Domain.dll
+/Users/claudiahamidah/Documents/dev/ConstructionManagement/ConstructionManagement.Domain/bin/Debug/net8.0/ConstructionManagement.Domain.pdb
+/Users/claudiahamidah/Documents/dev/ConstructionManagement/ConstructionManagement.Domain/obj/Debug/net8.0/ConstructionManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/claudiahamidah/Documents/dev/ConstructionManagement/ConstructionManagement.Domain/obj/Debug/net8.0/ConstructionManagement.Domain.AssemblyInfoInputs.cache
+/Users/claudiahamidah/Documents/dev/ConstructionManagement/ConstructionManagement.Domain/obj/Debug/net8.0/ConstructionManagement.Domain.AssemblyInfo.cs
+/Users/claudiahamidah/Documents/dev/ConstructionManagement/ConstructionManagement.Domain/obj/Debug/net8.0/ConstructionManagement.Domain.csproj.CoreCompileInputs.cache
+/Users/claudiahamidah/Documents/dev/ConstructionManagement/ConstructionManagement.Domain/obj/Debug/net8.0/ConstructionManagement.Domain.dll
+/Users/claudiahamidah/Documents/dev/ConstructionManagement/ConstructionManagement.Domain/obj/Debug/net8.0/refint/ConstructionManagement.Domain.dll
+/Users/claudiahamidah/Documents/dev/ConstructionManagement/ConstructionManagement.Domain/obj/Debug/net8.0/ConstructionManagement.Domain.pdb
+/Users/claudiahamidah/Documents/dev/ConstructionManagement/ConstructionManagement.Domain/obj/Debug/net8.0/ref/ConstructionManagement.Domain.dll

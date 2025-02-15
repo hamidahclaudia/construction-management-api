@@ -1,0 +1,15 @@
+/Users/claudiahamidah/Documents/dev/ConstructionManagement/ConstructionManagement.Application/bin/Debug/net8.0/ConstructionManagement.Application.deps.json
+/Users/claudiahamidah/Documents/dev/ConstructionManagement/ConstructionManagement.Application/bin/Debug/net8.0/ConstructionManagement.Application.dll
+/Users/claudiahamidah/Documents/dev/ConstructionManagement/ConstructionManagement.Application/bin/Debug/net8.0/ConstructionManagement.Application.pdb
+/Users/claudiahamidah/Documents/dev/ConstructionManagement/ConstructionManagement.Application/bin/Debug/net8.0/ConstructionManagement.Domain.dll
+/Users/claudiahamidah/Documents/dev/ConstructionManagement/ConstructionManagement.Application/bin/Debug/net8.0/ConstructionManagement.Domain.pdb
+/Users/claudiahamidah/Documents/dev/ConstructionManagement/ConstructionManagement.Application/obj/Debug/net8.0/ConstructionManagement.Application.csproj.AssemblyReference.cache
+/Users/claudiahamidah/Documents/dev/ConstructionManagement/ConstructionManagement.Application/obj/Debug/net8.0/ConstructionManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/claudiahamidah/Documents/dev/ConstructionManagement/ConstructionManagement.Application/obj/Debug/net8.0/ConstructionManagement.Application.AssemblyInfoInputs.cache
+/Users/claudiahamidah/Documents/dev/ConstructionManagement/ConstructionManagement.Application/obj/Debug/net8.0/ConstructionManagement.Application.AssemblyInfo.cs
+/Users/claudiahamidah/Documents/dev/ConstructionManagement/ConstructionManagement.Application/obj/Debug/net8.0/ConstructionManagement.Application.csproj.CoreCompileInputs.cache
+/Users/claudiahamidah/Documents/dev/ConstructionManagement/ConstructionManagement.Application/obj/Debug/net8.0/Construc.2E84D46B.Up2Date
+/Users/claudiahamidah/Documents/dev/ConstructionManagement/ConstructionManagement.Application/obj/Debug/net8.0/ConstructionManagement.Application.dll
+/Users/claudiahamidah/Documents/dev/ConstructionManagement/ConstructionManagement.Application/obj/Debug/net8.0/refint/ConstructionManagement.Application.dll
+/Users/claudiahamidah/Documents/dev/ConstructionManagement/ConstructionManagement.Application/obj/Debug/net8.0/ConstructionManagement.Application.pdb
+/Users/claudiahamidah/Documents/dev/ConstructionManagement/ConstructionManagement.Application/obj/Debug/net8.0/ref/ConstructionManagement.Application.dll
