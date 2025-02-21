@@ -1,0 +1,90 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Rider project files
+.idea/
+*.sln.iml
+
+# Rider logs and cache
+/.idea/workspace.xml
+/.idea/tasks.xml
+/.idea/gradle.xml
+/.idea/libraries/
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/compiler.xml
+/.idea/shelf/
+/.idea/httpRequests/
+
+# .NET Core & Visual Studio specific files
+bin/
+obj/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+
+# NuGet dependencies
+*.nupkg
+packages/
+project.lock.json
+project.assets.json
+
+# Build files
+out/
+publish/
+dist/
+
+# Logs and debugging
+*.log
+debug/
+*.pidb
+*.ilk
+*.pdb
+*.mdb
+*.opendb
+
+# Environment and secrets
+*.env
+.env.local
+.env.development
+.env.production
+appsettings.Development.json
+secrets.json
+
+# Dependency cache
+node_modules/
+packages/
+yarn.lock
+package-lock.json
+
+# Test results
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+*.trx
+
+# Generated files
+*.Generated.cs
+*.g.cs
+*.g.i.cs
+Generated_Code/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+*.orig
+
+# Docker
+docker-compose.override.yml
+.dockerignore
+
+# JetBrains Rider workspace and UI state
+.idea/
+.idea_modules/
+*.iws
